@@ -9,7 +9,7 @@ entries:
     name: payments
     type: application
     urls:
-    - payments-0.1.0.tgz
+    - https://yuksr.github.io/simple-node-app/helm-repo/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: shipping
     type: application
     urls:
-    - shipping-0.1.0.tgz
+    - https://yuksr.github.io/simple-node-app/helm-repo/shipping-0.1.0.tgz
     version: 0.1.0
 generated: "2025-08-25T11:31:12.373232975+05:30"
